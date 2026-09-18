@@ -3,7 +3,7 @@
 ### 🎮 A Console-Based Snake Game Built with Modern C++ Concepts
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++17">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++17">
   <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Paradigm-OOP-8A2BE2?style=for-the-badge" alt="OOP">
   <img src="https://img.shields.io/badge/Status-Completed-2EA44F?style=for-the-badge" alt="Project Status">
